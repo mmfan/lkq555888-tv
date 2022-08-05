@@ -2,7 +2,7 @@
 
 {
 
-"spider":"https://gitea.com/sun651130318/tv/raw/branch/main/0724.jar",
+"spider":"https://shuyuan.miaogongzi.net/shuyuan/1659764435.txt",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc3VuNjUxMTMwMzE4L3R2L3Jhdy9icmFuY2gvbWFpbi8lRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
