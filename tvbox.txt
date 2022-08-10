@@ -2,7 +2,7 @@
 
 {
 
-"spider":"https://shuyuan.miaogongzi.net/shuyuan/1659764435.txt",
+"spider":"http://52bsj.vip:81/api/v3/file/get/1683/0724.jar?sign=k4wgzb6713INRyy69_RMYEz6-1tMfey8NnDPDcYvcsg%3D%3A0",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc3VuNjUxMTMwMzE4L3R2L3Jhdy9icmFuY2gvbWFpbi8lRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
