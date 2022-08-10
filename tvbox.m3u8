@@ -9,11 +9,11 @@
 
 "sites":[
 
-{"key": "csp_pianku" ,"name": "片库","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/sun651130318/tv/raw/branch/main/pianku.json"},
+{"key": "csp_pianku" ,"name": "片库","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/wuliao/tv/raw/branch/main/pianku.json"},
 
 
 
-{"key": "csp_mdys" ,"name": "麻豆影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/sun651130318/tv/raw/branch/main/%E9%BA%BB%E8%B1%86%E5%BD%B1%E8%A7%86.json"},
+{"key": "csp_mdys" ,"name": "麻豆影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/wuliao/tv/raw/branch/main/%E9%BA%BB%E8%B1%86%E5%BD%B1%E8%A7%86.json"},
 
 
 
