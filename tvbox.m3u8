@@ -2,7 +2,7 @@
 
 {
 
-"spider":"https://gitea.com/wuliao/tv/raw/branch/main/0724.jar",
+"spider":"https://pan.igjbbs.cn/api/v3/file/source/20228/0724.txt?sign=yZk3ny-SyWZILND9Xz6lXWWH9UfFhQHyIlpRGdIJlrE%3D%3A0",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc3VuNjUxMTMwMzE4L3R2L3Jhdy9icmFuY2gvbWFpbi8lRTclOUIlQjQlRTYlOTIlQUQudHh0"]}]}],
