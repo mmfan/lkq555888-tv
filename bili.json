@@ -1,0 +1,15 @@
+﻿{
+  "classes": [
+    {
+      "type_name": "豫剧",
+      "type_id": "豫剧"
+    },  
+  {
+      "type_name": "美剧解说",
+      "type_id": "美剧解说"
+    }
+  ],
+  "filter": {
+  }
+}
+
