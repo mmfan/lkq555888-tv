@@ -5,8 +5,12 @@
       "type_id": "豫剧"
     },  
   {
-      "type_name": "美剧解说合集",
+      "type_name": "美剧解说",
       "type_id": "美剧解说合集"
+    }，
+    {
+      "type_name":"君有云"
+      "type_id":"君有云"
     }
   ],
   "filter": {
