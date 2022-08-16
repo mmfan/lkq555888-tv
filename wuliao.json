@@ -166,7 +166,7 @@
       "filterable": 0,
       "ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/mdys.json"
     },
-    {"key": "哔哩哔哩","name": "哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/bili.json"},
+    {"key": "哔哩哔哩","name": "🍉哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/bili.json"},
     {
       "key": "360_spider",
       "name": "🍉影视大全",
