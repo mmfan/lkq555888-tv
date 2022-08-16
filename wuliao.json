@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://TVBox./MaooXP/xp/wnys.json"
+      "ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/wnys.json"
     },
     {
       "key": "csp_biubiu_hgll",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/pianku.josn"
+      "ext": "https://gitea.com/wuliao/tv/raw/branch/main/xb/pianku.json"
     },
     {
       "key": "csp_biubiu_mdys",
